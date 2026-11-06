@@ -156,6 +156,47 @@ class Engineer:
 <table>
   <tr>
     <td width="50%" valign="top">
+      <h3>📚 <a href="https://github.com/abduallahJamal/book-studio-skills">book-studio-skills</a></h3>
+      <p>
+        End-to-end bilingual (<b>Arabic RTL &amp; English LTR</b>) book creation &amp; publishing suite — <b>9 Agent Skills</b> (<code>/book</code>) + 10 Python CLIs for <b>OpenCode</b>, <b>Claude Code</b>, <b>Codex CLI</b>, and <b>DeepSeek Harness</b>: Word/PDF intake with content-integrity locks, <b>Tri-Engine typesetting</b> (<code>Typst</code> · <code>Paged CSS</code> · <code>Quarto/LaTeX</code>), automatic <b>RTL/LTR KDP cover-wrap mirroring</b>, <code>EPUB 3.3</code> + Static Web Book, and <b>15 physical PyMuPDF/pikepdf preflight QC gates</b>.
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+        <img src="https://img.shields.io/badge/Skills-9_%2B_%2Fbook-38bdf8?style=flat-square" alt="9 Skills + /book" />
+        <img src="https://img.shields.io/badge/Engines-Typst_%C2%B7_CSS_%C2%B7_LaTeX-818cf8?style=flat-square" alt="Tri-Engine" />
+        <img src="https://img.shields.io/badge/Preflight-15_Physical_Gates-22c55e?style=flat-square" alt="15 Physical Gates" />
+        <img src="https://img.shields.io/badge/Bilingual-Arabic_RTL_%26_EN-a78bfa?style=flat-square" alt="Arabic RTL & EN" />
+        <img src="https://img.shields.io/github/actions/workflow/status/abduallahJamal/book-studio-skills/validate.yml?branch=main&style=flat-square&label=CI&color=0ea5a4" alt="CI Status" />
+        <img src="https://img.shields.io/github/stars/abduallahJamal/book-studio-skills?style=flat-square&color=f59e0b" alt="Stars" />
+      </p>
+      <p>
+        <a href="https://github.com/abduallahJamal/book-studio-skills"><b>View Repository →</b></a>
+        &nbsp;·&nbsp;
+        <a href="https://github.com/abduallahJamal/book-studio-skills/blob/main/README.ar.md"><b>التوثيق بالعربية →</b></a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>✍️ <a href="https://github.com/abduallahJamal/humanizer-skills">humanizer-skills</a></h3>
+      <p>
+        Bilingual (<b>English &amp; Arabic RTL</b>) AI-writing humanization &amp; anti-slop suite distilled from 10 open-source humanizer repos — <b>5 Agent Skills</b> (<code>/humanize</code>) + 4 zero-dependency Python verification CLIs for <b>OpenCode</b>, <b>Claude Code</b>, <b>Codex CLI</b>, and <b>DeepSeek Harness</b>: 3-pass prose rewriting, <b>12-metric forensic AI detection</b>, developer repo/PR/commit hygiene, and citation-locked academic humanization.
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-Zero_Deps_Stdlib-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python Stdlib" />
+        <img src="https://img.shields.io/badge/Skills-5_%2B_%2Fhumanize-38bdf8?style=flat-square" alt="5 Skills + /humanize" />
+        <img src="https://img.shields.io/badge/Audit-12_Metrics_%C2%B7_4_CLIs-818cf8?style=flat-square" alt="12 Metrics · 4 CLIs" />
+        <img src="https://img.shields.io/badge/Bilingual-EN_%2B_Arabic_RTL-a78bfa?style=flat-square" alt="Bilingual EN + AR" />
+        <img src="https://img.shields.io/github/actions/workflow/status/abduallahJamal/humanizer-skills/validate.yml?branch=main&style=flat-square&label=CI&color=0ea5a4" alt="CI Status" />
+        <img src="https://img.shields.io/github/stars/abduallahJamal/humanizer-skills?style=flat-square&color=f59e0b" alt="Stars" />
+      </p>
+      <p>
+        <a href="https://github.com/abduallahJamal/humanizer-skills"><b>View Repository →</b></a>
+        &nbsp;·&nbsp;
+        <a href="https://github.com/abduallahJamal/humanizer-skills/blob/main/README.ar.md"><b>التوثيق بالعربية →</b></a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
       <h3>👁️ <a href="https://github.com/abduallahJamal/argus">argus</a></h3>
       <p>
         Zero-dependency <b>binary &amp; bundle static-analysis router CLI</b> (<code>argus</code>) + <code>8.7 KB</code> multi-agent <b>Reverse Engineering</b> skill for <b>OpenCode</b>, <b>Claude Code</b>, <b>Codex</b>, and <b>Cursor</b> — routing 43 artifact kinds (<code>Electron</code>, <code>Mach-O</code>, <code>ELF</code>, <code>PE/.NET</code>, <code>Go</code>, <code>Rust</code>, <code>Android</code>, <code>iOS</code>, <code>Unity</code>, <code>Flutter</code>) via magic bytes &amp; section tables, with 22 sliceable references and a 49-tool <code>doctor</code>.
